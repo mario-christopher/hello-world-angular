@@ -23,7 +23,7 @@ Then run `npm run build` in the terminal. You could also code for checking `proc
 
 ##  Application features:
 
-* Uses the stable build for Angular 4.2.
+* Uses the stable build for Angular 4.3.x.
 * Webpack configured for Dev and Prod environments.
 * Can be used as a Starter project for any Angular4 based client.
 * Uses Typescript.
